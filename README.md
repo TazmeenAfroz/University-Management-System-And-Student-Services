@@ -3,6 +3,14 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+## Login Page
+![image](https://github.com/shafeenyousafzaii/University-Management-System-And-Student-Services/assets/112253449/8654f409-92aa-4e8f-96e4-33f412530301)
+## Student Dashboard 
+![image](https://github.com/shafeenyousafzaii/University-Management-System-And-Student-Services/assets/112253449/0ebc4ea9-9db4-4d7d-8c38-e7598ccb9a32)
+## Admin Dashboard 
+![image](https://github.com/shafeenyousafzaii/University-Management-System-And-Student-Services/assets/112253449/8263d4a3-4620-4013-9784-e8c134ff0864)
+## Instructor/Lecturer Dashboard
+![image](https://github.com/shafeenyousafzaii/University-Management-System-And-Student-Services/assets/112253449/537b1973-6efa-4a5c-b4a7-5868e9b9b86f)
 
 ## Table of Contents
 - [Introduction](#introduction)
