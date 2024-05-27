@@ -41,10 +41,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries or feedback, please contact:
-- **Your Name*Muhammad Shafeen , Tazmeen Afroz , Amber Khurshid *
+- *Muhammad Shafeen , Tazmeen Afroz , Amber Khurshid*
 - **Email:** shafeenyousafzai@gmail.com , p229278@pwr.nu.edu.pk
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tazmeen-afroz/)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/amber-khurshid/)
+- **LinkedIn:** [Tazmeen Afroz](https://www.linkedin.com/in/tazmeen-afroz/)
+- **LinkedIn:** [Amber Khurshid](https://www.linkedin.com/in/amber-khurshid/)
 ---
 
 Feel free to customize this README further based on specific details and requirements of your project!
